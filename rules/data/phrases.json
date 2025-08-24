@@ -1,0 +1,41 @@
+{
+  "am_pm": [
+    "am",
+    "pm"
+  ],
+  "mwe_replace": {
+    "going to": "FUTURE",
+    "have to": "MUST",
+    "long time": "LONG-TIME",
+    "make a call": "CALL",
+    "need to": "MUST",
+    "take a photo": "PHOTO-TAKE"
+  },
+  "perfect_triggers": {
+    "have": [
+      "gone",
+      "seen",
+      "made",
+      "taken",
+      "bought",
+      "known",
+      "thought",
+      "met",
+      "told",
+      "said",
+      "given",
+      "found",
+      "slept",
+      "decided",
+      "rained",
+      "finished"
+    ]
+  },
+  "post_intensifiers": [
+    "a lot"
+  ],
+  "pre_intensifiers": [
+    "very",
+    "really"
+  ]
+}

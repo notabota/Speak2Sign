@@ -1,0 +1,482 @@
+[
+  [
+    "I'm",
+    "I am"
+  ],
+  [
+    "I’ve",
+    "I have"
+  ],
+  [
+    "I've",
+    "I have"
+  ],
+  [
+    "I’ll",
+    "I will"
+  ],
+  [
+    "I'll",
+    "I will"
+  ],
+  [
+    "I’d",
+    "I would"
+  ],
+  [
+    "I'd",
+    "I would"
+  ],
+  [
+    "you’re",
+    "you are"
+  ],
+  [
+    "you're",
+    "you are"
+  ],
+  [
+    "you’ve",
+    "you have"
+  ],
+  [
+    "you've",
+    "you have"
+  ],
+  [
+    "you’ll",
+    "you will"
+  ],
+  [
+    "you'll",
+    "you will"
+  ],
+  [
+    "you’d",
+    "you would"
+  ],
+  [
+    "you'd",
+    "you would"
+  ],
+  [
+    "he’s",
+    "he is"
+  ],
+  [
+    "he's",
+    "he is"
+  ],
+  [
+    "he’ll",
+    "he will"
+  ],
+  [
+    "he'll",
+    "he will"
+  ],
+  [
+    "he’d",
+    "he would"
+  ],
+  [
+    "he'd",
+    "he would"
+  ],
+  [
+    "she’s",
+    "she is"
+  ],
+  [
+    "she's",
+    "she is"
+  ],
+  [
+    "she’ll",
+    "she will"
+  ],
+  [
+    "she'll",
+    "she will"
+  ],
+  [
+    "she’d",
+    "she would"
+  ],
+  [
+    "she'd",
+    "she would"
+  ],
+  [
+    "it’s",
+    "it is"
+  ],
+  [
+    "it's",
+    "it is"
+  ],
+  [
+    "it’ll",
+    "it will"
+  ],
+  [
+    "it'll",
+    "it will"
+  ],
+  [
+    "it’d",
+    "it would"
+  ],
+  [
+    "it'd",
+    "it would"
+  ],
+  [
+    "we’re",
+    "we are"
+  ],
+  [
+    "we're",
+    "we are"
+  ],
+  [
+    "we’ve",
+    "we have"
+  ],
+  [
+    "we've",
+    "we have"
+  ],
+  [
+    "we’ll",
+    "we will"
+  ],
+  [
+    "we'll",
+    "we will"
+  ],
+  [
+    "we’d",
+    "we would"
+  ],
+  [
+    "we'd",
+    "we would"
+  ],
+  [
+    "they’re",
+    "they are"
+  ],
+  [
+    "they're",
+    "they are"
+  ],
+  [
+    "they’ve",
+    "they have"
+  ],
+  [
+    "they've",
+    "they have"
+  ],
+  [
+    "they’ll",
+    "they will"
+  ],
+  [
+    "they'll",
+    "they will"
+  ],
+  [
+    "they’d",
+    "they would"
+  ],
+  [
+    "they'd",
+    "they would"
+  ],
+  [
+    "that’s",
+    "that is"
+  ],
+  [
+    "that's",
+    "that is"
+  ],
+  [
+    "there’s",
+    "there is"
+  ],
+  [
+    "there's",
+    "there is"
+  ],
+  [
+    "here’s",
+    "here is"
+  ],
+  [
+    "here's",
+    "here is"
+  ],
+  [
+    "what’s",
+    "what is"
+  ],
+  [
+    "what's",
+    "what is"
+  ],
+  [
+    "who’s",
+    "who is"
+  ],
+  [
+    "who's",
+    "who is"
+  ],
+  [
+    "where’s",
+    "where is"
+  ],
+  [
+    "where's",
+    "where is"
+  ],
+  [
+    "when’s",
+    "when is"
+  ],
+  [
+    "when's",
+    "when is"
+  ],
+  [
+    "why’s",
+    "why is"
+  ],
+  [
+    "why's",
+    "why is"
+  ],
+  [
+    "how’s",
+    "how is"
+  ],
+  [
+    "how's",
+    "how is"
+  ],
+  [
+    "can’t",
+    "can not"
+  ],
+  [
+    "can't",
+    "can not"
+  ],
+  [
+    "won’t",
+    "will not"
+  ],
+  [
+    "won't",
+    "will not"
+  ],
+  [
+    "shan’t",
+    "shall not"
+  ],
+  [
+    "shan't",
+    "shall not"
+  ],
+  [
+    "don’t",
+    "do not"
+  ],
+  [
+    "don't",
+    "do not"
+  ],
+  [
+    "doesn’t",
+    "does not"
+  ],
+  [
+    "doesn't",
+    "does not"
+  ],
+  [
+    "didn’t",
+    "did not"
+  ],
+  [
+    "didn't",
+    "did not"
+  ],
+  [
+    "aren’t",
+    "are not"
+  ],
+  [
+    "aren't",
+    "are not"
+  ],
+  [
+    "isn’t",
+    "is not"
+  ],
+  [
+    "isn't",
+    "is not"
+  ],
+  [
+    "wasn’t",
+    "was not"
+  ],
+  [
+    "wasn't",
+    "was not"
+  ],
+  [
+    "weren’t",
+    "were not"
+  ],
+  [
+    "weren't",
+    "were not"
+  ],
+  [
+    "haven’t",
+    "have not"
+  ],
+  [
+    "haven't",
+    "have not"
+  ],
+  [
+    "hasn’t",
+    "has not"
+  ],
+  [
+    "hasn't",
+    "has not"
+  ],
+  [
+    "hadn’t",
+    "had not"
+  ],
+  [
+    "hadn't",
+    "had not"
+  ],
+  [
+    "shouldn’t",
+    "should not"
+  ],
+  [
+    "shouldn't",
+    "should not"
+  ],
+  [
+    "wouldn’t",
+    "would not"
+  ],
+  [
+    "wouldn't",
+    "would not"
+  ],
+  [
+    "couldn’t",
+    "could not"
+  ],
+  [
+    "couldn't",
+    "could not"
+  ],
+  [
+    "mustn’t",
+    "must not"
+  ],
+  [
+    "mustn't",
+    "must not"
+  ],
+  [
+    "mightn’t",
+    "might not"
+  ],
+  [
+    "mightn't",
+    "might not"
+  ],
+  [
+    "needn’t",
+    "need not"
+  ],
+  [
+    "needn't",
+    "need not"
+  ],
+  [
+    "ain’t",
+    "is not"
+  ],
+  [
+    "ain't",
+    "is not"
+  ],
+  [
+    "let’s",
+    "let us"
+  ],
+  [
+    "let's",
+    "let us"
+  ],
+  [
+    "y’all",
+    "you all"
+  ],
+  [
+    "y'all",
+    "you all"
+  ],
+  [
+    "gonna",
+    "going to"
+  ],
+  [
+    "wanna",
+    "want to"
+  ],
+  [
+    "gotta",
+    "have to"
+  ],
+  [
+    "lemme",
+    "let me"
+  ],
+  [
+    "gimme",
+    "give me"
+  ],
+  [
+    "kinda",
+    "kind of"
+  ],
+  [
+    "sorta",
+    "sort of"
+  ],
+  [
+    "’cause",
+    "because"
+  ],
+  [
+    "'cause",
+    "because"
+  ]
+]

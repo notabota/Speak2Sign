@@ -1,0 +1,8 @@
+{"input": "ENGLISH: Let's take a photo after class.\nRULES: LET WE PHOTO-TAKE AFTER CLASS", "target": "AFTER CLASS LET WE PHOTO-TAKE"}
+{"input": "ENGLISH: We have finished the exam.\nRULES: WE FINISH EXAM", "target": "WE FINISH EXAM"}
+{"input": "ENGLISH: I don't like pizza.\nRULES: ME NOT LIKE PIZZA", "target": "ME NOT LIKE PIZZA"}
+{"input": "ENGLISH: I will wait 5 minutes.\nRULES: FUTURE ME WAIT 5-MINUTE", "target": "FUTURE ME WAIT 5-MINUTE"}
+{"input": "ENGLISH: It rained a lot\nRULES: IT RAIN++", "target": "so we went home."}
+{"input": "ENGLISH: Priya will call John at 3 pm.\nRULES: FUTURE FS-PRIYA CALL FS-JOHN 3 PM", "target": "FUTURE FS-PRIYA CALL FS-JOHN 3 PM"}
+{"input": "ENGLISH: I have to study tonight.\nRULES: TONIGHT ME MUST STUDY", "target": "ME MUST STUDY TONIGHT"}
+{"input": "ENGLISH: Do you really like that movie?\nRULES: YOU LIKE++ MOVIE ?", "target": "YOU LIKE++ MOVIE ?"}
