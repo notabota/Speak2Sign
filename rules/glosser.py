@@ -229,7 +229,7 @@ class ASLGlosser:
         return GlossResult(gloss_tokens=mapped, gloss=gloss_str, sentence_nmm=sent_nmm)
 
 def main():
-    data_dir = os.path.join(os.path.dirname(__file__), "data")
+    data_dir = "data"
     text = 'I don’t like pizza at all.'
     res = ASLGlosser(data_dir).gloss(text)
     print(res.gloss)
